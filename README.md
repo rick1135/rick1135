@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 👨‍💻 Back-End Developer<br>- 🎓 Computer science student<br>- 🌱 I’m currently learning Java andSpring Boot</p>
+<p align="left">- 👨‍💻 Back-End Developer<br>- 🎓 Computer science student<br>- 🌱 I’m currently learning Java and Spring Boot</p>
 
 ###
 
