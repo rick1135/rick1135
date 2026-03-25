@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Back-End Developer<br>- 🎓 Computer science student<br>- 🌱 I’m currently learning Java and Spring Boot</p>
+<p align="left">- Computer Science student building backend applications with Java, Spring Boot, PostgreSQL and Docker.</p>
 
 ###
 
